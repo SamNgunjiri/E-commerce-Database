@@ -40,3 +40,6 @@ Referential integrity is enforced through appropriate `PRIMARY KEY` and `FOREIGN
 
 ```sql
 SOURCE path_to/ecommerce_db.sql;
+
+
+Link to ERD: https://drawsql.app/teams/vesto/diagrams/e-commerce
